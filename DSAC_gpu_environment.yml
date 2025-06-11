@@ -1,0 +1,25 @@
+name: DSAC-new
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - cudatoolkit=11.8
+  - pytorch=2.0.0
+  - torchvision
+  - numpy
+  - matplotlib
+  - gymnasium
+  - opencv
+  - pip:
+    - vizdoom
+    - stable-baselines3
+    - wandb
+    - tensorboard
+    - pygame
+    - pillow
+    - opencv-python
+    - scikit-image
