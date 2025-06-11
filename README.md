@@ -1,4 +1,4 @@
-# VizDoomDSAC_V2# ViZDoom + DSAC-v2 Minimal Setup Guide
+# ViZDoom + DSAC-v2 Minimal Setup Guide
 
 ## Reference
 
